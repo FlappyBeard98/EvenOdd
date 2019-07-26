@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Helper.fs" />
+        <Compile Include="EvenOdd.fs" />
+        <Compile Include="Rules.fs" />
+        <Compile Include="Game.fs" />
+    </ItemGroup>
+
+</Project>
